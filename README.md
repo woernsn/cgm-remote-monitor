@@ -183,8 +183,8 @@ MongoDB server such as [mLab][mLab].
 
 ## Updating my version?
 
-The easiest way to update your version of cgm-remote-monitor to the latest version is to use the [update tool][update-fork]. A step-by-step guide is available [here][http://www.nightscout.info/wiki/welcome/how-to-update-to-latest-cgm-remote-monitor-aka-cookie].
-To downgrade to an older version, follow [this guide][http://www.nightscout.info/wiki/welcome/how-to-deploy-an-older-version-of-nightscout].
+The easiest way to update your version of cgm-remote-monitor to the latest version is to use the [update tool][update-fork]. A step-by-step guide is available [here](http://www.nightscout.info/wiki/welcome/how-to-update-to-latest-cgm-remote-monitor-aka-cookie).
+To downgrade to an older version, follow [this guide](http://www.nightscout.info/wiki/welcome/how-to-deploy-an-older-version-of-nightscout).
 
 ## Configure my uploader to match
 
